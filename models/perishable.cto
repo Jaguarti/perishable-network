@@ -32,6 +32,7 @@ enum ProductType {
   o COFFEE
   o MEDICINE
   o ORANGE
+  o teste
 }
 
 /**
